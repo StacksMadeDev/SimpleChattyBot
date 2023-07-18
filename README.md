@@ -13,3 +13,5 @@ This code package contains a simple interactive program called SimpleChattyBot. 
 5. **Test**: The `test` method presents a multiple-choice question to the user and checks if their answer is correct. The question is related to programming methods, and the user is expected to select the correct option.
 
 Enjoy chatting with SimpleChattyBot!
+
+(first project from hyperskill in the java learning track) 
